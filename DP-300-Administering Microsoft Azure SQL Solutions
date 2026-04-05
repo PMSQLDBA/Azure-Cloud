@@ -1,0 +1,112 @@
+DP-300: Administering Microsoft Azure SQL Solutions
+
+Playlist List: https://www.youtube.com/playlist?list=PLahhVEj9XNTfZ2BSgtbYV9pgmE4OpiRAa
+
+This course provides students with the knowledge and skills to create a SQL Server database infrastructure for cloud, on-premises 
+and hybrid relational databases and who work with the Microsoft PaaS relational database offerings. 
+Additionally, it will be of use to individuals who develop applications that deliver content from SQL-based relational databases.
+
+Complete training path for the Microsoft Azure DP-300 certification, focused on managing SQL databases in Azure.
+
+🎯 Playlist Overview (DP-300 Course)
+This playlist teaches you how to:
+👉 Deploy, manage, secure, monitor, and optimize SQL databases in Azure
+
+It’s essentially a full roadmap to become an Azure Database Administrator (Cloud DBA).
+
+🧠 Module-wise Summary
+1. 🚀 Introduction & Azure SQL Basics
+
+Course overview and DP-300 exam expectations
+Understanding:
+Azure SQL Database
+Managed Instance
+SQL Server on Azure VM
+When to use each service
+
+👉 Foundation for all upcoming topics
+
+2. 🏗️ Deploying Azure SQL Solutions (IaaS vs PaaS)
+
+Deploy SQL Server on:
+Virtual Machines (IaaS)
+Azure SQL Database / Managed Instance (PaaS)
+Differences in:
+Control
+Maintenance
+Cost
+
+👉 Key exam topic: choosing the right architecture
+
+3. 🔄 Migration to Azure
+
+Migrating on-prem SQL Server to Azure
+Tools:
+Azure Database Migration Service
+Migration strategies:
+Online vs Offline
+
+👉 Real-world skill for cloud transitions
+
+4. 🔐 Security & Access Control
+
+Authentication methods:
+SQL logins
+Azure AD
+Authorization (roles & permissions)
+Data protection:
+Encryption (TDE, SSL)
+Compliance features:
+Data masking
+Auditing
+
+👉 Critical for enterprise environments
+
+5. 📊 Monitoring & Performance Optimization
+
+Monitor resources and performance
+Identify bottlenecks
+Query optimization:
+Execution plans
+Index tuning
+Database design improvements
+
+👉 This is where DBAs add major value
+
+6. ⚙️ Automation & Deployment
+
+Deploy databases using:
+ARM templates (Infrastructure as Code)
+Automate environment setup
+
+👉 Important for DevOps + DBA roles
+
+7. 🛡️ High Availability & Disaster Recovery
+
+Backup and restore strategies
+Disaster recovery:
+Geo-replication
+Failover groups
+Business continuity planning
+
+👉 Mission-critical for production systems
+
+8. 🎓 Conclusion
+
+Wrap-up of all topics
+Final preparation for DP-300 exam
+⚡ Key Skills You Gain
+
+By the end, you’ll know how to:
+
+Deploy SQL solutions in Azure (IaaS + PaaS)
+Migrate databases from on-prem to cloud
+Secure and control access to data
+Monitor and optimize performance
+Implement backups and disaster recovery
+Automate deployments using templates
+
+💡 Big Picture
+This playlist follows a real DBA lifecycle in the cloud.
+
+👉 Plan → Deploy → Secure → Monitor → Optimize → Protect
